@@ -1,3 +1,7 @@
+#Candy Smasher
+
+![Screenshot (109)](https://github.com/airan04/Candy-smasher/assets/85561210/b2b4501c-add6-4b48-b86d-78e539862d6f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
